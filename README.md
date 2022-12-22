@@ -8,4 +8,4 @@ Uses Bing Maps for Mapping Services and for Adding Store's Map Pins and Details
 #### NOTICE
 In the meantime, dummy user location is only provided. Using GPS service will be implemented soon. 
 
-![Screenshot](Screenshot from 2022-12-23 06-21-41.png)
+![Screenshot](https://github.com/CITE006-CS31S1-TEAM-CALOR/sukimap/blob/master/Screenshot%20from%202022-12-23%2006-21-41.png?raw=true)
